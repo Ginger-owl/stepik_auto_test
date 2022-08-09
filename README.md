@@ -1,3 +1,3 @@
 # Stepik auto testing course - solutions
 
-Here you can find my solutions for the tasks of Stepik testing automation course.
+Here you can find my solutions for the tasks of [Stepik testing automation course](https://stepik.org/course/575/).
